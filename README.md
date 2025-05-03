@@ -83,14 +83,7 @@ As an HR manager, I want a comprehensive dashboard to analyze workforce trends a
 #### 📋 Employee Records View
 - Table view with filters by name, department, age, salary, etc.
 
----
 
-## 📜 License
-
-This repository is licensed under the **MIT License**.  
-See the [LICENSE](./LICENSE) file for more details.
-
----
 
 ## 🤝 Contributing
 
@@ -103,10 +96,18 @@ Your contributions are always welcome!
 
 ---
 
-## 📬 Contact
+---
 
-**Atharva Samindre**  
-📧 Email: [atharvasamindre9@gmail.com](mailto:atharvasamindre9@gmail.com)
+## 🤝 Let's Connect!
+
+I'm actively learning and building new projects in data visualization and analytics.  
+Feel free to connect or collaborate:
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/atharva-samindre-547302363)
+- 📧 Email: [atharvasamindre9@gmail.com](mailto:atharvasamindre9@gmail.com)
+- 🌐 [Tableau Public Profile](https://public.tableau.com/app/profile/atharva.samindre/vizzes)
+
+
 
 
 To explore a Tableau project:
